@@ -4,8 +4,6 @@
 
 - 🔭 I'm currently working on **Hack4Israel**
 
-- 🌱 I'm currently learning **OSINT and OpSec**
-
 - 📫 How to reach me **flaws@tutamail.com**
 
 <h3 align="left">Connect with me:</h3>
